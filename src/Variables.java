@@ -10,6 +10,7 @@ public class Variables {
         System.out.println(genero);
         System.out.println("esta es " + precio);
         System.out.println("disponible es " +disponible);
+        System.out.println("otro cambio");
 
         String tituloLibro= "la casa del lago";
         System.out.println(tituloLibro);
